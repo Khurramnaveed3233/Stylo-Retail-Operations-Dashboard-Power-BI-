@@ -21,7 +21,22 @@ Which stores and regions are driving (or dragging) revenue?
 How is the product portfolio performing across categories, seasons, and price points?
 Where are the operational bottlenecks — stock, footfall, conversion — that need attention?
 
----
+```
+## Key Features
+
+- **Sales Performance Analysis** – Monitor sales performance across multiple stores, provinces, cities, and time periods using interactive visualizations.
+- **Store Performance Monitoring** – Evaluate store-level KPIs, including total sales, profit, customer ratings, and top-performing locations.
+- **Product Performance Insights** – Analyze products by category, material, gender, and profitability to identify best-selling and high-margin products.
+- **Executive KPI Dashboard** – Track key business metrics such as Total Sales, Total Profit, Profit Margin, Average Order Value (AOV), Total Orders, and Return Rate.
+- **Interactive Filtering** – Explore data dynamically using slicers for Year, Month, Province, Category, Store Type, Material, Membership Type, Order Channel, and Store Name.
+
+- **Sales Trend Analysis** – Visualize monthly sales trends to identify seasonality and business growth over time.
+- **Regional Performance Analysis** – Compare sales performance across provinces and cities to identify top-performing markets.
+- **Top Store & Product Rankings** – Highlight the highest-performing stores and products based on sales and profitability.
+- **Cross-Filtering & Drill-Down** – All visuals interact seamlessly, enabling users to filter, compare, and explore business performance from multiple perspectives.
+- **Star Schema Data Model** – Built using a scalable Star Schema with one Fact table and seven Dimension tables for optimized reporting performance.
+
+```
 
 #  Business Problem
 
