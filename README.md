@@ -9,19 +9,34 @@ Analytics](https://img.shields.io/badge/Domain-Retail-purple)
 
 #  Project Overview
 
-Retail Operations Dashboard – Stylo Pakistan (Simulated)
+## Retail Operations Dashboard – Stylo Pakistan (Simulated)
 
-An end-to-end Retail Operations Dashboard built in Microsoft Power BI, using a simulated dataset modeled on Stylo Pakistan, one of the country's leading fashion footwear and lifestyle retailers.
+This project is an end-to-end **Retail Operations Dashboard** developed in **Microsoft Power BI** using a simulated dataset inspired by **Stylo Pakistan**, one of Pakistan's leading fashion footwear and lifestyle retailers.
 
-This project replicates a real-world retail analytics use case — transforming raw transactional data into an executive-ready decision-support tool. It's designed to help retail management track sales performance, monitor store-level operations, and uncover product-level insights through a fully interactive, KPI-driven reporting layer.
-Business Objective
-Retail leadership needs a single source of truth to answer questions like:
+The dashboard replicates a real-world **retail analytics** solution by transforming raw transactional data into an interactive, executive-ready Business Intelligence platform. It enables decision-makers to monitor business performance, evaluate store operations, and analyze product performance through dynamic dashboards, KPIs, and data visualizations.
 
-Which stores and regions are driving (or dragging) revenue?
-How is the product portfolio performing across categories, seasons, and price points?
-Where are the operational bottlenecks — stock, footfall, conversion — that need attention?
+Designed following industry best practices, the solution incorporates **Star Schema data modeling**, **Power Query ETL**, **DAX calculations**, and interactive reporting to deliver meaningful insights for retail management.
 
-```
+---
+
+##  Business Objective
+
+Retail organizations generate thousands of transactions every day across multiple stores, products, and customer segments. Without a centralized reporting solution, it becomes difficult to identify performance trends and make timely, data-driven decisions.
+
+This dashboard serves as a **single source of truth**, enabling management to answer key business questions such as:
+
+- Which stores, cities, and provinces are driving or slowing overall revenue?
+- How are sales, profit, and profit margins performing over time?
+- Which product categories and individual products generate the highest sales and profitability?
+- How do different store types perform against each other?
+- What is the current return rate, and how does it impact business performance?
+- Which sales channels contribute the most revenue?
+- How are customer ratings distributed across stores and products?
+- Which business areas require management attention to improve operational performance?
+
+By consolidating retail data into a single interactive dashboard, this project helps stakeholders monitor KPIs, identify trends, compare performance across dimensions, and make informed strategic decisions.
+
+---
 
 #  Business Problem
 
