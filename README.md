@@ -78,18 +78,7 @@ The project uses a retail dataset containing:
 The dashboard follows a **Star Schema**.
 
 ```
-                DimDate
-                   │
-DimCustomer ───── FactSales ───── DimProduct
-                   │
-              DimStore
-                   │
-            DimEmployee
-                   │
-           DimPromotion
-                   │
-      DimPaymentMethod
-```
+<img width="1622" height="969" alt="ChatGPT Image Jul 10, 2026, 09_37_33 AM" src="https://github.com/user-attachments/assets/1b063ea2-db0e-4a0b-86ab-fb1ac6587b7e" />
 
 ---
 
