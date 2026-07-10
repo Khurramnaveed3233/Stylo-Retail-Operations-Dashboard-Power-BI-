@@ -1,0 +1,11 @@
+PromotionID,PromotionName,DiscountPercent,StartDate,EndDate
+1,No Promotion,0,2024-01-01,2025-12-31
+2,Eid-ul-Fitr Sale,25,2024-04-05,2024-04-15
+3,Eid-ul-Azha Sale,20,2024-06-12,2024-06-22
+4,Independence Day Sale,14,2024-08-10,2024-08-16
+5,Blessed Friday,50,2024-11-24,2024-11-30
+6,Winter Clearance,30,2024-12-20,2025-01-10
+7,Summer Launch,10,2024-03-01,2024-03-15
+8,Eid-ul-Fitr Sale 2025,25,2025-03-25,2025-04-05
+9,Eid-ul-Azha Sale 2025,20,2025-06-01,2025-06-10
+10,Blessed Friday 2025,50,2025-11-23,2025-11-29

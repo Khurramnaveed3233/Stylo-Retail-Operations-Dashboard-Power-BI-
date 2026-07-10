@@ -1,0 +1,61 @@
+StoreID,StoreName,City,Province,Region,StoreType,OpeningYear,StoreManager
+1,Stylo Quetta 1,Quetta,Balochistan,West,Mall,2010,Manager 1
+2,Stylo Hyderabad 2,Hyderabad,Sindh,South,High Street,2013,Manager 2
+3,Stylo Rawalpindi 3,Rawalpindi,Punjab,Central,Mall,2021,Manager 3
+4,Stylo Karachi 4,Karachi,Sindh,South,Mall,2019,Manager 4
+5,Stylo Sialkot 5,Sialkot,Punjab,Central,Mall,2010,Manager 5
+6,Stylo Karachi 6,Karachi,Sindh,South,Mall,2013,Manager 6
+7,Stylo Bahawalpur 7,Bahawalpur,Punjab,Central,Mall,2018,Manager 7
+8,Stylo Rawalpindi 8,Rawalpindi,Punjab,Central,High Street,2013,Manager 8
+9,Stylo Gujranwala 9,Gujranwala,Punjab,Central,High Street,2022,Manager 9
+10,Stylo Sahiwal 10,Sahiwal,Punjab,Central,Mall,2022,Manager 10
+11,Stylo Sargodha 11,Sargodha,Punjab,Central,Mall,2021,Manager 11
+12,Stylo Sialkot 12,Sialkot,Punjab,Central,High Street,2014,Manager 12
+13,Stylo Islamabad 13,Islamabad,ICT,North,Mall,2022,Manager 13
+14,Stylo Multan 14,Multan,Punjab,Central,Mall,2011,Manager 14
+15,Stylo Sialkot 15,Sialkot,Punjab,Central,Mall,2015,Manager 15
+16,Stylo Sahiwal 16,Sahiwal,Punjab,Central,High Street,2019,Manager 16
+17,Stylo Faisalabad 17,Faisalabad,Punjab,Central,Mall,2021,Manager 17
+18,Stylo Gujranwala 18,Gujranwala,Punjab,Central,Mall,2016,Manager 18
+19,Stylo Karachi 19,Karachi,Sindh,South,High Street,2023,Manager 19
+20,Stylo Quetta 20,Quetta,Balochistan,West,High Street,2019,Manager 20
+21,Stylo Rawalpindi 21,Rawalpindi,Punjab,Central,Mall,2010,Manager 21
+22,Stylo Quetta 22,Quetta,Balochistan,West,Mall,2022,Manager 22
+23,Stylo Faisalabad 23,Faisalabad,Punjab,Central,Mall,2023,Manager 23
+24,Stylo Rawalpindi 24,Rawalpindi,Punjab,Central,Mall,2016,Manager 24
+25,Stylo Faisalabad 25,Faisalabad,Punjab,Central,High Street,2020,Manager 25
+26,Stylo Sahiwal 26,Sahiwal,Punjab,Central,High Street,2012,Manager 26
+27,Stylo Multan 27,Multan,Punjab,Central,High Street,2013,Manager 27
+28,Stylo Quetta 28,Quetta,Balochistan,West,High Street,2021,Manager 28
+29,Stylo Rahim Yar Khan 29,Rahim Yar Khan,Punjab,Central,Mall,2019,Manager 29
+30,Stylo Quetta 30,Quetta,Balochistan,West,Mall,2018,Manager 30
+31,Stylo Hyderabad 31,Hyderabad,Sindh,South,Mall,2012,Manager 31
+32,Stylo Gujranwala 32,Gujranwala,Punjab,Central,High Street,2014,Manager 32
+33,Stylo Rahim Yar Khan 33,Rahim Yar Khan,Punjab,Central,Mall,2020,Manager 33
+34,Stylo Multan 34,Multan,Punjab,Central,Mall,2013,Manager 34
+35,Stylo Sahiwal 35,Sahiwal,Punjab,Central,Mall,2022,Manager 35
+36,Stylo Multan 36,Multan,Punjab,Central,High Street,2014,Manager 36
+37,Stylo Karachi 37,Karachi,Sindh,South,Mall,2019,Manager 37
+38,Stylo Rahim Yar Khan 38,Rahim Yar Khan,Punjab,Central,High Street,2013,Manager 38
+39,Stylo Quetta 39,Quetta,Balochistan,West,High Street,2016,Manager 39
+40,Stylo Rahim Yar Khan 40,Rahim Yar Khan,Punjab,Central,High Street,2012,Manager 40
+41,Stylo Faisalabad 41,Faisalabad,Punjab,Central,Mall,2013,Manager 41
+42,Stylo Hyderabad 42,Hyderabad,Sindh,South,High Street,2021,Manager 42
+43,Stylo Peshawar 43,Peshawar,KPK,North,High Street,2019,Manager 43
+44,Stylo Sialkot 44,Sialkot,Punjab,Central,High Street,2013,Manager 44
+45,Stylo Islamabad 45,Islamabad,ICT,North,High Street,2011,Manager 45
+46,Stylo Sargodha 46,Sargodha,Punjab,Central,Mall,2023,Manager 46
+47,Stylo Karachi 47,Karachi,Sindh,South,Mall,2020,Manager 47
+48,Stylo Islamabad 48,Islamabad,ICT,North,High Street,2019,Manager 48
+49,Stylo Karachi 49,Karachi,Sindh,South,High Street,2016,Manager 49
+50,Stylo Peshawar 50,Peshawar,KPK,North,High Street,2018,Manager 50
+51,Stylo Faisalabad 51,Faisalabad,Punjab,Central,Mall,2020,Manager 51
+52,Stylo Hyderabad 52,Hyderabad,Sindh,South,Mall,2020,Manager 52
+53,Stylo Rahim Yar Khan 53,Rahim Yar Khan,Punjab,Central,High Street,2022,Manager 53
+54,Stylo Quetta 54,Quetta,Balochistan,West,High Street,2011,Manager 54
+55,Stylo Faisalabad 55,Faisalabad,Punjab,Central,High Street,2012,Manager 55
+56,Stylo Gujranwala 56,Gujranwala,Punjab,Central,Mall,2021,Manager 56
+57,Stylo Rahim Yar Khan 57,Rahim Yar Khan,Punjab,Central,High Street,2018,Manager 57
+58,Stylo Sargodha 58,Sargodha,Punjab,Central,Mall,2018,Manager 58
+59,Stylo Rahim Yar Khan 59,Rahim Yar Khan,Punjab,Central,Mall,2023,Manager 59
+60,Stylo Quetta 60,Quetta,Balochistan,West,High Street,2023,Manager 60

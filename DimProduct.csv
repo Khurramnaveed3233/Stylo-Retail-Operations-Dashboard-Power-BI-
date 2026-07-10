@@ -1,0 +1,251 @@
+ProductID,ProductName,Category,SubCategory,Brand,Color,Size,Season,Gender,Material,LaunchYear,StandardPrice,CostPrice
+1,Perfumes Item 1,Beauty,Perfumes,Stylo,Gold,XL,Summer,Women,Fabric,2023,2520.0,1187.78
+2,Heels Item 2,Women's Shoes,Heels,Stylo,Beige,10,Summer,Women,Leather,2022,10730.0,4680.94
+3,Pret Item 3,Clothing,Pret,Stylo,Black,XL,Summer,Women,Synthetic,2024,1600.0,885.44
+4,Clutches Item 4,Bags,Clutches,Stylo,Gold,M,Summer,Women,Synthetic,2024,2290.0,1243.07
+5,Casual Item 5,Men Shoes,Casual,Stylo,Blue,XL,Winter,Men,Leather,2022,9860.0,4978.17
+6,Boys Shoes Item 6,Kids Shoes,Boys Shoes,Stylo,Brown,9,Summer,Unisex,Leather,2024,3860.0,2021.39
+7,Perfumes Item 7,Beauty,Perfumes,Stylo,Beige,S,Summer,Women,Synthetic,2023,3570.0,1530.24
+8,Makeup Item 8,Beauty,Makeup,Stylo,Gold,L,Summer,Women,Silk,2023,2220.0,1464.07
+9,Boys Shoes Item 9,Kids Shoes,Boys Shoes,Stylo,Blue,M,Winter,Unisex,Leather,2024,1640.0,936.19
+10,Perfumes Item 10,Beauty,Perfumes,Stylo,Beige,7,Summer,Women,Synthetic,2022,1600.0,772.76
+11,Abayas Item 11,Clothing,Abayas,Stylo,Blue,9,Summer,Women,Silk,2024,1750.0,1130.82
+12,Heels Item 12,Women's Shoes,Heels,Stylo,Black,7,Summer,Women,Synthetic,2023,6390.0,3434.65
+13,Laptop Bags Item 13,Bags,Laptop Bags,Stylo,Black,8,Winter,Women,Leather,2023,2520.0,1461.86
+14,Casual Item 14,Men Shoes,Casual,Stylo,Silver,XL,All Season,Men,Silk,2022,3630.0,1783.62
+15,Girls Shoes Item 15,Kids Shoes,Girls Shoes,Stylo,Silver,XL,Summer,Unisex,Fabric,2022,2170.0,1479.65
+16,Flats Item 16,Women's Shoes,Flats,Stylo,Gold,8,Summer,Women,Leather,2022,6240.0,2645.55
+17,Flats Item 17,Women's Shoes,Flats,Stylo,Blue,7,All Season,Women,Synthetic,2024,1830.0,805.82
+18,Pret Item 18,Clothing,Pret,Stylo,Gold,XL,Winter,Women,Fabric,2022,5720.0,3287.22
+19,Makeup Item 19,Beauty,Makeup,Stylo,Silver,10,Winter,Women,Fabric,2022,2710.0,1574.09
+20,Sandals Item 20,Women's Shoes,Sandals,Stylo,Black,7,All Season,Women,Synthetic,2024,6200.0,3295.22
+21,Formal Item 21,Men Shoes,Formal,Stylo,Brown,S,Winter,Men,Synthetic,2023,10790.0,4699.67
+22,Artificial Jewellery Item 22,Accessories,Artificial Jewellery,Stylo,Silver,XL,Summer,Women,Fabric,2024,8050.0,3252.55
+23,Sneakers Item 23,Women's Shoes,Sneakers,Stylo,Silver,XL,Summer,Women,Fabric,2023,3900.0,1690.1
+24,Pret Item 24,Clothing,Pret,Stylo,Silver,10,All Season,Women,Silk,2023,5840.0,3729.25
+25,Watches Item 25,Accessories,Watches,Stylo,Red,6,Summer,Women,Fabric,2022,1600.0,915.34
+26,Makeup Item 26,Beauty,Makeup,Stylo,Silver,M,All Season,Women,Leather,2022,2160.0,1227.12
+27,Sneakers Item 27,Women's Shoes,Sneakers,Stylo,Gold,XL,Summer,Women,Silk,2022,6570.0,2955.16
+28,Khussa Item 28,Women's Shoes,Khussa,Stylo,Beige,6,Winter,Women,Synthetic,2024,5100.0,2140.93
+29,Boys Shoes Item 29,Kids Shoes,Boys Shoes,Stylo,Beige,M,All Season,Unisex,Synthetic,2022,3930.0,2091.55
+30,Watches Item 30,Accessories,Watches,Stylo,Blue,6,Summer,Women,Fabric,2023,10710.0,4892.93
+31,Watches Item 31,Accessories,Watches,Stylo,Black,M,Summer,Women,Silk,2022,3670.0,1700.63
+32,Girls Shoes Item 32,Kids Shoes,Girls Shoes,Stylo,Beige,9,Summer,Unisex,Leather,2024,4570.0,2073.46
+33,Girls Shoes Item 33,Kids Shoes,Girls Shoes,Stylo,Beige,10,Winter,Unisex,Silk,2024,4490.0,1977.18
+34,Artificial Jewellery Item 34,Accessories,Artificial Jewellery,Stylo,Red,8,All Season,Women,Fabric,2022,7100.0,4726.57
+35,Flats Item 35,Women's Shoes,Flats,Stylo,Red,M,All Season,Women,Leather,2023,5100.0,2455.54
+36,Pret Item 36,Clothing,Pret,Stylo,Black,XL,All Season,Women,Synthetic,2023,3380.0,1646.25
+37,Handbags Item 37,Bags,Handbags,Stylo,Gold,S,All Season,Women,Leather,2024,11260.0,4769.94
+38,Casual Item 38,Men Shoes,Casual,Stylo,Silver,10,All Season,Men,Synthetic,2022,5810.0,3501.02
+39,Clutches Item 39,Bags,Clutches,Stylo,Brown,10,Winter,Women,Leather,2023,9520.0,4731.64
+40,Formal Item 40,Men Shoes,Formal,Stylo,Silver,S,Winter,Men,Silk,2023,4630.0,2434.5
+41,Perfumes Item 41,Beauty,Perfumes,Stylo,Beige,8,All Season,Women,Leather,2023,6060.0,2800.28
+42,Unstitched Item 42,Clothing,Unstitched,Stylo,Beige,9,All Season,Women,Fabric,2022,5590.0,3348.23
+43,Watches Item 43,Accessories,Watches,Stylo,Blue,7,Winter,Women,Silk,2024,1700.0,1163.09
+44,Pret Item 44,Clothing,Pret,Stylo,Blue,9,Summer,Women,Leather,2022,6380.0,3732.56
+45,Artificial Jewellery Item 45,Accessories,Artificial Jewellery,Stylo,Silver,XL,Winter,Women,Leather,2024,3240.0,1484.79
+46,Boys Shoes Item 46,Kids Shoes,Boys Shoes,Stylo,Silver,XL,All Season,Unisex,Fabric,2023,5560.0,2554.08
+47,Unstitched Item 47,Clothing,Unstitched,Stylo,Gold,L,Summer,Women,Silk,2023,7890.0,4514.09
+48,Formal Item 48,Men Shoes,Formal,Stylo,Beige,XL,Winter,Men,Synthetic,2023,6940.0,4279.38
+49,Handbags Item 49,Bags,Handbags,Stylo,Red,S,All Season,Women,Leather,2022,5890.0,3710.95
+50,Boys Shoes Item 50,Kids Shoes,Boys Shoes,Stylo,Brown,7,Winter,Unisex,Silk,2023,3400.0,2223.66
+51,Abayas Item 51,Clothing,Abayas,Stylo,Blue,M,All Season,Women,Leather,2024,3720.0,2370.98
+52,Laptop Bags Item 52,Bags,Laptop Bags,Stylo,Beige,M,Winter,Women,Synthetic,2023,890.0,526.53
+53,Girls Shoes Item 53,Kids Shoes,Girls Shoes,Stylo,Red,M,All Season,Unisex,Synthetic,2023,3560.0,2461.26
+54,Boys Shoes Item 54,Kids Shoes,Boys Shoes,Stylo,Silver,6,Summer,Unisex,Silk,2022,8770.0,4581.18
+55,Artificial Jewellery Item 55,Accessories,Artificial Jewellery,Stylo,Red,9,Winter,Women,Fabric,2023,2120.0,1317.78
+56,Artificial Jewellery Item 56,Accessories,Artificial Jewellery,Stylo,Blue,10,Summer,Women,Silk,2022,4230.0,1752.15
+57,Perfumes Item 57,Beauty,Perfumes,Stylo,Silver,7,All Season,Women,Leather,2022,8400.0,4999.59
+58,Boys Shoes Item 58,Kids Shoes,Boys Shoes,Stylo,Brown,8,Winter,Unisex,Leather,2024,8330.0,4276.53
+59,Girls Shoes Item 59,Kids Shoes,Girls Shoes,Stylo,Brown,7,Summer,Unisex,Fabric,2022,7760.0,3647.59
+60,Pret Item 60,Clothing,Pret,Stylo,Blue,M,All Season,Women,Synthetic,2022,8880.0,4679.99
+61,Unstitched Item 61,Clothing,Unstitched,Stylo,Silver,10,All Season,Women,Leather,2024,6760.0,4237.57
+62,Watches Item 62,Accessories,Watches,Stylo,Red,7,All Season,Women,Fabric,2022,3610.0,2062.42
+63,Artificial Jewellery Item 63,Accessories,Artificial Jewellery,Stylo,Red,L,All Season,Women,Synthetic,2023,6280.0,4200.49
+64,Girls Shoes Item 64,Kids Shoes,Girls Shoes,Stylo,Beige,L,Winter,Unisex,Silk,2024,7710.0,3271.61
+65,Abayas Item 65,Clothing,Abayas,Stylo,Black,10,Winter,Women,Synthetic,2023,3110.0,1950.37
+66,Unstitched Item 66,Clothing,Unstitched,Stylo,Blue,S,Summer,Women,Silk,2022,5850.0,3506.85
+67,Casual Item 67,Men Shoes,Casual,Stylo,Silver,10,All Season,Men,Leather,2024,4660.0,2031.52
+68,Boys Shoes Item 68,Kids Shoes,Boys Shoes,Stylo,Gold,9,All Season,Unisex,Silk,2024,2740.0,1586.1
+69,Makeup Item 69,Beauty,Makeup,Stylo,Red,9,Winter,Women,Synthetic,2023,3620.0,2516.79
+70,Makeup Item 70,Beauty,Makeup,Stylo,Blue,XL,Winter,Women,Fabric,2024,4860.0,2629.67
+71,Laptop Bags Item 71,Bags,Laptop Bags,Stylo,Silver,9,Winter,Women,Leather,2024,2980.0,1879.8
+72,Unstitched Item 72,Clothing,Unstitched,Stylo,Blue,10,All Season,Women,Fabric,2022,2100.0,1333.17
+73,Watches Item 73,Accessories,Watches,Stylo,Red,6,All Season,Women,Synthetic,2023,3100.0,1833.11
+74,Heels Item 74,Women's Shoes,Heels,Stylo,Brown,L,Summer,Women,Leather,2024,6090.0,2990.12
+75,Casual Item 75,Men Shoes,Casual,Stylo,Black,10,Winter,Men,Leather,2022,4440.0,2654.21
+76,Laptop Bags Item 76,Bags,Laptop Bags,Stylo,Black,8,Summer,Women,Fabric,2022,1630.0,833.37
+77,Boys Shoes Item 77,Kids Shoes,Boys Shoes,Stylo,Gold,9,All Season,Unisex,Silk,2023,5240.0,3011.33
+78,Laptop Bags Item 78,Bags,Laptop Bags,Stylo,Red,6,All Season,Women,Leather,2022,10850.0,4370.75
+79,Perfumes Item 79,Beauty,Perfumes,Stylo,Brown,8,All Season,Women,Leather,2022,2500.0,1690.91
+80,Sandals Item 80,Women's Shoes,Sandals,Stylo,Red,6,Summer,Women,Fabric,2024,4840.0,2527.27
+81,Casual Item 81,Men Shoes,Casual,Stylo,Red,9,Winter,Men,Leather,2024,1300.0,820.31
+82,Boys Shoes Item 82,Kids Shoes,Boys Shoes,Stylo,Black,6,Summer,Unisex,Fabric,2024,10150.0,4587.85
+83,Makeup Item 83,Beauty,Makeup,Stylo,Red,M,Winter,Women,Silk,2023,4430.0,2476.19
+84,Flats Item 84,Women's Shoes,Flats,Stylo,Red,10,Summer,Women,Leather,2022,1190.0,679.37
+85,Perfumes Item 85,Beauty,Perfumes,Stylo,Red,6,Summer,Women,Silk,2024,10030.0,4998.08
+86,Makeup Item 86,Beauty,Makeup,Stylo,Gold,M,All Season,Women,Silk,2022,7160.0,4622.33
+87,Laptop Bags Item 87,Bags,Laptop Bags,Stylo,Black,8,Winter,Women,Silk,2024,3870.0,2337.57
+88,Laptop Bags Item 88,Bags,Laptop Bags,Stylo,Beige,XL,Summer,Women,Silk,2022,6000.0,3481.63
+89,Casual Item 89,Men Shoes,Casual,Stylo,Blue,XL,Summer,Men,Silk,2023,4780.0,1954.73
+90,Sneakers Item 90,Women's Shoes,Sneakers,Stylo,Blue,L,Summer,Women,Synthetic,2023,5520.0,2832.98
+91,Pret Item 91,Clothing,Pret,Stylo,Silver,L,Summer,Women,Leather,2024,8220.0,4674.53
+92,Pret Item 92,Clothing,Pret,Stylo,Black,XL,Winter,Women,Leather,2022,6090.0,3694.02
+93,Watches Item 93,Accessories,Watches,Stylo,Beige,8,Winter,Women,Fabric,2024,3880.0,2576.52
+94,Makeup Item 94,Beauty,Makeup,Stylo,Blue,9,Winter,Women,Synthetic,2023,4270.0,2369.71
+95,Boys Shoes Item 95,Kids Shoes,Boys Shoes,Stylo,Beige,M,Winter,Unisex,Fabric,2022,7110.0,4388.12
+96,Casual Item 96,Men Shoes,Casual,Stylo,Silver,L,Summer,Men,Silk,2024,8110.0,4268.64
+97,Laptop Bags Item 97,Bags,Laptop Bags,Stylo,Blue,L,Winter,Women,Synthetic,2024,4240.0,1995.98
+98,Girls Shoes Item 98,Kids Shoes,Girls Shoes,Stylo,Black,S,All Season,Unisex,Silk,2024,3320.0,1551.03
+99,Artificial Jewellery Item 99,Accessories,Artificial Jewellery,Stylo,Beige,8,Winter,Women,Leather,2022,4470.0,2237.35
+100,Unstitched Item 100,Clothing,Unstitched,Stylo,Beige,L,Summer,Women,Silk,2022,2980.0,1993.98
+101,Perfumes Item 101,Beauty,Perfumes,Stylo,Brown,7,Winter,Women,Fabric,2023,4660.0,2344.9
+102,Unstitched Item 102,Clothing,Unstitched,Stylo,Red,XL,Winter,Women,Fabric,2024,3390.0,2288.67
+103,Makeup Item 103,Beauty,Makeup,Stylo,Black,9,All Season,Women,Fabric,2022,6420.0,4425.72
+104,Perfumes Item 104,Beauty,Perfumes,Stylo,Silver,7,Winter,Women,Synthetic,2024,3660.0,2452.87
+105,Formal Item 105,Men Shoes,Formal,Stylo,Red,S,Winter,Men,Silk,2022,1530.0,706.96
+106,Girls Shoes Item 106,Kids Shoes,Girls Shoes,Stylo,Brown,8,Summer,Unisex,Silk,2024,6590.0,3046.68
+107,Perfumes Item 107,Beauty,Perfumes,Stylo,Brown,L,All Season,Women,Fabric,2023,5220.0,2739.5
+108,Formal Item 108,Men Shoes,Formal,Stylo,Red,XL,Summer,Men,Leather,2023,8110.0,4545.09
+109,Casual Item 109,Men Shoes,Casual,Stylo,Red,L,Winter,Men,Synthetic,2023,5890.0,3375.22
+110,Artificial Jewellery Item 110,Accessories,Artificial Jewellery,Stylo,Red,10,All Season,Women,Fabric,2022,1670.0,979.94
+111,Artificial Jewellery Item 111,Accessories,Artificial Jewellery,Stylo,Silver,6,All Season,Women,Silk,2023,3270.0,1735.16
+112,Watches Item 112,Accessories,Watches,Stylo,Silver,9,All Season,Women,Fabric,2024,5440.0,3231.79
+113,Watches Item 113,Accessories,Watches,Stylo,Silver,6,Winter,Women,Silk,2022,7760.0,3327.12
+114,Abayas Item 114,Clothing,Abayas,Stylo,Red,S,All Season,Women,Silk,2022,5640.0,3795.62
+115,Boys Shoes Item 115,Kids Shoes,Boys Shoes,Stylo,Red,XL,All Season,Unisex,Fabric,2022,9240.0,4039.31
+116,Casual Item 116,Men Shoes,Casual,Stylo,Beige,S,Summer,Men,Silk,2022,7940.0,4853.23
+117,Boys Shoes Item 117,Kids Shoes,Boys Shoes,Stylo,Blue,XL,Winter,Unisex,Leather,2023,9050.0,4370.63
+118,Khussa Item 118,Women's Shoes,Khussa,Stylo,Silver,10,All Season,Women,Silk,2024,5170.0,2914.58
+119,Formal Item 119,Men Shoes,Formal,Stylo,Gold,XL,Winter,Men,Synthetic,2024,6330.0,3536.76
+120,Sandals Item 120,Women's Shoes,Sandals,Stylo,Blue,7,Summer,Women,Leather,2022,7540.0,4592.24
+121,Casual Item 121,Men Shoes,Casual,Stylo,Gold,8,Winter,Men,Silk,2023,1620.0,1022.54
+122,Makeup Item 122,Beauty,Makeup,Stylo,Blue,7,Winter,Women,Silk,2023,6520.0,3143.03
+123,Khussa Item 123,Women's Shoes,Khussa,Stylo,Brown,S,Summer,Women,Fabric,2024,2610.0,1477.71
+124,Makeup Item 124,Beauty,Makeup,Stylo,Black,L,Summer,Women,Synthetic,2024,1250.0,772.48
+125,Perfumes Item 125,Beauty,Perfumes,Stylo,Brown,9,Summer,Women,Synthetic,2024,1210.0,727.6
+126,Boys Shoes Item 126,Kids Shoes,Boys Shoes,Stylo,Gold,6,Winter,Unisex,Synthetic,2022,3020.0,1978.52
+127,Abayas Item 127,Clothing,Abayas,Stylo,Beige,6,Summer,Women,Leather,2023,6140.0,4093.31
+128,Watches Item 128,Accessories,Watches,Stylo,Red,6,Summer,Women,Silk,2024,4530.0,3149.84
+129,Heels Item 129,Women's Shoes,Heels,Stylo,Gold,7,Winter,Women,Synthetic,2024,5660.0,2643.11
+130,Flats Item 130,Women's Shoes,Flats,Stylo,Black,6,Winter,Women,Silk,2023,3660.0,1857.34
+131,Perfumes Item 131,Beauty,Perfumes,Stylo,Black,7,Winter,Women,Synthetic,2022,6340.0,2706.21
+132,Girls Shoes Item 132,Kids Shoes,Girls Shoes,Stylo,Silver,S,Winter,Unisex,Fabric,2023,6310.0,3309.43
+133,Unstitched Item 133,Clothing,Unstitched,Stylo,Black,XL,All Season,Women,Synthetic,2023,5270.0,2435.9
+134,Handbags Item 134,Bags,Handbags,Stylo,Blue,M,All Season,Women,Leather,2023,5230.0,2362.16
+135,Laptop Bags Item 135,Bags,Laptop Bags,Stylo,Brown,L,Summer,Women,Leather,2022,5940.0,3492.99
+136,Sandals Item 136,Women's Shoes,Sandals,Stylo,Beige,8,All Season,Women,Leather,2024,1950.0,934.54
+137,Unstitched Item 137,Clothing,Unstitched,Stylo,Red,M,All Season,Women,Leather,2023,2990.0,1983.41
+138,Abayas Item 138,Clothing,Abayas,Stylo,Brown,8,All Season,Women,Silk,2022,3950.0,2082.41
+139,Watches Item 139,Accessories,Watches,Stylo,Black,10,All Season,Women,Synthetic,2023,3890.0,2075.51
+140,Watches Item 140,Accessories,Watches,Stylo,Silver,10,Summer,Women,Synthetic,2023,6450.0,3240.48
+141,Makeup Item 141,Beauty,Makeup,Stylo,Brown,8,All Season,Women,Silk,2022,7810.0,4646.92
+142,Boys Shoes Item 142,Kids Shoes,Boys Shoes,Stylo,Blue,M,Winter,Unisex,Fabric,2022,1690.0,912.91
+143,Casual Item 143,Men Shoes,Casual,Stylo,Gold,7,Summer,Men,Synthetic,2022,8020.0,3747.18
+144,Watches Item 144,Accessories,Watches,Stylo,Silver,M,Winter,Women,Silk,2023,5710.0,3532.86
+145,Formal Item 145,Men Shoes,Formal,Stylo,Blue,7,Winter,Men,Silk,2024,5850.0,3897.24
+146,Makeup Item 146,Beauty,Makeup,Stylo,Gold,6,Summer,Women,Synthetic,2023,1210.0,704.38
+147,Boys Shoes Item 147,Kids Shoes,Boys Shoes,Stylo,Black,6,Winter,Unisex,Silk,2022,6420.0,3938.72
+148,Girls Shoes Item 148,Kids Shoes,Girls Shoes,Stylo,Gold,S,Summer,Unisex,Silk,2024,4590.0,2896.62
+149,Sandals Item 149,Women's Shoes,Sandals,Stylo,Beige,S,All Season,Women,Silk,2024,1380.0,584.34
+150,Clutches Item 150,Bags,Clutches,Stylo,Blue,6,Winter,Women,Synthetic,2024,5510.0,3380.64
+151,Clutches Item 151,Bags,Clutches,Stylo,Beige,7,Summer,Women,Silk,2024,6890.0,4638.96
+152,Clutches Item 152,Bags,Clutches,Stylo,Silver,S,Summer,Women,Fabric,2022,1950.0,853.91
+153,Flats Item 153,Women's Shoes,Flats,Stylo,Brown,S,Winter,Women,Synthetic,2022,6190.0,3349.51
+154,Sneakers Item 154,Women's Shoes,Sneakers,Stylo,Brown,7,Summer,Women,Silk,2023,2550.0,1651.86
+155,Artificial Jewellery Item 155,Accessories,Artificial Jewellery,Stylo,Silver,S,All Season,Women,Fabric,2022,8190.0,3565.1
+156,Handbags Item 156,Bags,Handbags,Stylo,Beige,10,All Season,Women,Leather,2023,5110.0,2610.14
+157,Pret Item 157,Clothing,Pret,Stylo,Black,S,Winter,Women,Leather,2024,3360.0,1896.84
+158,Watches Item 158,Accessories,Watches,Stylo,Blue,XL,All Season,Women,Leather,2023,5960.0,3267.54
+159,Watches Item 159,Accessories,Watches,Stylo,Brown,6,Winter,Women,Leather,2023,3490.0,1946.87
+160,Perfumes Item 160,Beauty,Perfumes,Stylo,Brown,L,Winter,Women,Synthetic,2023,4270.0,2770.47
+161,Casual Item 161,Men Shoes,Casual,Stylo,Silver,6,All Season,Men,Fabric,2022,4800.0,2243.37
+162,Formal Item 162,Men Shoes,Formal,Stylo,Red,8,Winter,Men,Leather,2024,5160.0,3010.83
+163,Perfumes Item 163,Beauty,Perfumes,Stylo,Silver,M,Summer,Women,Leather,2023,7620.0,4625.36
+164,Abayas Item 164,Clothing,Abayas,Stylo,Brown,XL,Summer,Women,Silk,2024,5650.0,3395.72
+165,Formal Item 165,Men Shoes,Formal,Stylo,Brown,S,Winter,Men,Synthetic,2022,3300.0,2131.69
+166,Boys Shoes Item 166,Kids Shoes,Boys Shoes,Stylo,Black,XL,All Season,Unisex,Leather,2024,1900.0,847.24
+167,Formal Item 167,Men Shoes,Formal,Stylo,Brown,8,All Season,Men,Silk,2022,4880.0,3187.61
+168,Laptop Bags Item 168,Bags,Laptop Bags,Stylo,Blue,10,All Season,Women,Silk,2022,5640.0,3543.63
+169,Pret Item 169,Clothing,Pret,Stylo,Blue,9,Winter,Women,Silk,2023,4140.0,1892.61
+170,Artificial Jewellery Item 170,Accessories,Artificial Jewellery,Stylo,Blue,8,Summer,Women,Synthetic,2023,7290.0,4001.56
+171,Sandals Item 171,Women's Shoes,Sandals,Stylo,Black,XL,Summer,Women,Fabric,2022,8310.0,4433.53
+172,Watches Item 172,Accessories,Watches,Stylo,Brown,M,Summer,Women,Synthetic,2023,4030.0,1727.56
+173,Formal Item 173,Men Shoes,Formal,Stylo,Red,9,Winter,Men,Leather,2023,4070.0,2367.04
+174,Boys Shoes Item 174,Kids Shoes,Boys Shoes,Stylo,Silver,S,Summer,Unisex,Synthetic,2022,2890.0,1934.08
+175,Casual Item 175,Men Shoes,Casual,Stylo,Silver,L,Winter,Men,Leather,2022,5520.0,3632.32
+176,Khussa Item 176,Women's Shoes,Khussa,Stylo,Silver,XL,Winter,Women,Leather,2023,2240.0,1470.45
+177,Girls Shoes Item 177,Kids Shoes,Girls Shoes,Stylo,Silver,L,Summer,Unisex,Leather,2023,1670.0,1048.32
+178,Unstitched Item 178,Clothing,Unstitched,Stylo,Brown,8,Winter,Women,Silk,2022,1050.0,573.96
+179,Abayas Item 179,Clothing,Abayas,Stylo,Silver,7,All Season,Women,Fabric,2022,2750.0,1582.54
+180,Unstitched Item 180,Clothing,Unstitched,Stylo,Gold,6,Winter,Women,Silk,2022,6900.0,2782.97
+181,Makeup Item 181,Beauty,Makeup,Stylo,Black,S,Summer,Women,Fabric,2022,7880.0,4914.68
+182,Perfumes Item 182,Beauty,Perfumes,Stylo,Red,8,Summer,Women,Fabric,2024,8280.0,3971.76
+183,Formal Item 183,Men Shoes,Formal,Stylo,Silver,L,All Season,Men,Synthetic,2022,8570.0,4236.73
+184,Sandals Item 184,Women's Shoes,Sandals,Stylo,Beige,9,Summer,Women,Fabric,2023,1040.0,666.43
+185,Abayas Item 185,Clothing,Abayas,Stylo,Red,6,All Season,Women,Synthetic,2023,9220.0,4951.05
+186,Formal Item 186,Men Shoes,Formal,Stylo,Black,S,Winter,Men,Silk,2024,7320.0,4396.09
+187,Laptop Bags Item 187,Bags,Laptop Bags,Stylo,Silver,L,Winter,Women,Fabric,2022,3150.0,2025.66
+188,Makeup Item 188,Beauty,Makeup,Stylo,Beige,8,All Season,Women,Fabric,2023,1650.0,855.17
+189,Heels Item 189,Women's Shoes,Heels,Stylo,Blue,M,Summer,Women,Silk,2023,3230.0,1975.64
+190,Handbags Item 190,Bags,Handbags,Stylo,Gold,M,Winter,Women,Leather,2022,8840.0,3770.66
+191,Makeup Item 191,Beauty,Makeup,Stylo,Silver,8,Summer,Women,Synthetic,2024,4640.0,2134.9
+192,Makeup Item 192,Beauty,Makeup,Stylo,Beige,S,Winter,Women,Silk,2024,970.0,656.6
+193,Flats Item 193,Women's Shoes,Flats,Stylo,Red,S,Winter,Women,Leather,2024,2110.0,1190.47
+194,Girls Shoes Item 194,Kids Shoes,Girls Shoes,Stylo,Brown,7,Summer,Unisex,Synthetic,2023,4540.0,2291.15
+195,Abayas Item 195,Clothing,Abayas,Stylo,Beige,10,All Season,Women,Silk,2022,6940.0,4610.94
+196,Abayas Item 196,Clothing,Abayas,Stylo,Brown,7,Summer,Women,Leather,2023,9050.0,3622.91
+197,Girls Shoes Item 197,Kids Shoes,Girls Shoes,Stylo,Beige,S,All Season,Unisex,Fabric,2024,10920.0,4987.68
+198,Flats Item 198,Women's Shoes,Flats,Stylo,Beige,8,All Season,Women,Synthetic,2023,6800.0,2939.77
+199,Pret Item 199,Clothing,Pret,Stylo,Brown,9,Winter,Women,Leather,2023,1640.0,1046.13
+200,Unstitched Item 200,Clothing,Unstitched,Stylo,Gold,8,All Season,Women,Leather,2022,4710.0,2160.1
+201,Casual Item 201,Men Shoes,Casual,Stylo,Gold,M,Winter,Men,Leather,2022,10320.0,4998.18
+202,Formal Item 202,Men Shoes,Formal,Stylo,Red,8,All Season,Men,Synthetic,2022,5090.0,2524.89
+203,Clutches Item 203,Bags,Clutches,Stylo,Black,XL,Summer,Women,Fabric,2022,6730.0,4598.21
+204,Girls Shoes Item 204,Kids Shoes,Girls Shoes,Stylo,Gold,10,Summer,Unisex,Fabric,2022,7440.0,4706.32
+205,Makeup Item 205,Beauty,Makeup,Stylo,Gold,7,All Season,Women,Synthetic,2024,1750.0,1063.27
+206,Pret Item 206,Clothing,Pret,Stylo,Gold,S,All Season,Women,Leather,2022,2480.0,1270.4
+207,Heels Item 207,Women's Shoes,Heels,Stylo,Red,9,All Season,Women,Silk,2024,10170.0,4768.46
+208,Perfumes Item 208,Beauty,Perfumes,Stylo,Red,10,Winter,Women,Synthetic,2024,5360.0,2741.17
+209,Laptop Bags Item 209,Bags,Laptop Bags,Stylo,Brown,L,Winter,Women,Silk,2023,5150.0,2540.95
+210,Girls Shoes Item 210,Kids Shoes,Girls Shoes,Stylo,Silver,S,All Season,Unisex,Fabric,2023,5330.0,3229.97
+211,Girls Shoes Item 211,Kids Shoes,Girls Shoes,Stylo,Brown,L,Summer,Unisex,Fabric,2023,4220.0,2817.41
+212,Boys Shoes Item 212,Kids Shoes,Boys Shoes,Stylo,Blue,M,Summer,Unisex,Synthetic,2023,1530.0,935.65
+213,Unstitched Item 213,Clothing,Unstitched,Stylo,Blue,XL,Winter,Women,Silk,2023,4050.0,1907.22
+214,Handbags Item 214,Bags,Handbags,Stylo,Blue,9,Summer,Women,Fabric,2022,1560.0,905.22
+215,Khussa Item 215,Women's Shoes,Khussa,Stylo,Silver,L,Winter,Women,Leather,2022,6260.0,2727.02
+216,Handbags Item 216,Bags,Handbags,Stylo,Beige,M,Winter,Women,Leather,2023,9280.0,4471.05
+217,Flats Item 217,Women's Shoes,Flats,Stylo,Red,7,Winter,Women,Silk,2024,5120.0,3028.18
+218,Formal Item 218,Men Shoes,Formal,Stylo,Red,S,All Season,Men,Fabric,2022,1610.0,1078.99
+219,Girls Shoes Item 219,Kids Shoes,Girls Shoes,Stylo,Brown,S,Winter,Unisex,Silk,2022,4010.0,2750.35
+220,Unstitched Item 220,Clothing,Unstitched,Stylo,Red,8,Winter,Women,Fabric,2024,2680.0,1129.01
+221,Casual Item 221,Men Shoes,Casual,Stylo,Beige,6,Winter,Men,Fabric,2024,6050.0,3689.33
+222,Sandals Item 222,Women's Shoes,Sandals,Stylo,Silver,6,All Season,Women,Silk,2023,6780.0,3126.66
+223,Perfumes Item 223,Beauty,Perfumes,Stylo,Brown,XL,All Season,Women,Silk,2022,7140.0,3746.3
+224,Watches Item 224,Accessories,Watches,Stylo,Black,9,Summer,Women,Silk,2023,1550.0,642.07
+225,Handbags Item 225,Bags,Handbags,Stylo,Gold,L,All Season,Women,Leather,2024,3690.0,2358.32
+226,Boys Shoes Item 226,Kids Shoes,Boys Shoes,Stylo,Blue,XL,Winter,Unisex,Fabric,2022,7550.0,3023.99
+227,Clutches Item 227,Bags,Clutches,Stylo,Beige,10,All Season,Women,Silk,2022,3440.0,2040.47
+228,Girls Shoes Item 228,Kids Shoes,Girls Shoes,Stylo,Red,10,All Season,Unisex,Synthetic,2024,4760.0,3011.39
+229,Makeup Item 229,Beauty,Makeup,Stylo,Beige,10,Winter,Women,Leather,2024,3240.0,1926.68
+230,Makeup Item 230,Beauty,Makeup,Stylo,Red,8,Winter,Women,Leather,2023,7790.0,4530.92
+231,Perfumes Item 231,Beauty,Perfumes,Stylo,Red,L,Summer,Women,Synthetic,2024,3630.0,2058.64
+232,Casual Item 232,Men Shoes,Casual,Stylo,Gold,9,Summer,Men,Leather,2024,2170.0,1117.73
+233,Pret Item 233,Clothing,Pret,Stylo,Blue,S,All Season,Women,Silk,2022,4930.0,3370.75
+234,Perfumes Item 234,Beauty,Perfumes,Stylo,Brown,M,All Season,Women,Silk,2023,980.0,523.32
+235,Perfumes Item 235,Beauty,Perfumes,Stylo,Red,6,Summer,Women,Synthetic,2024,6360.0,3901.6
+236,Perfumes Item 236,Beauty,Perfumes,Stylo,Beige,8,Summer,Women,Silk,2023,7120.0,4609.53
+237,Girls Shoes Item 237,Kids Shoes,Girls Shoes,Stylo,Gold,7,Winter,Unisex,Fabric,2023,6380.0,4445.34
+238,Makeup Item 238,Beauty,Makeup,Stylo,Gold,L,Winter,Women,Synthetic,2022,6820.0,4501.67
+239,Formal Item 239,Men Shoes,Formal,Stylo,Silver,8,Summer,Men,Fabric,2023,7500.0,3790.04
+240,Unstitched Item 240,Clothing,Unstitched,Stylo,Beige,M,Winter,Women,Fabric,2022,6040.0,3907.77
+241,Clutches Item 241,Bags,Clutches,Stylo,Blue,S,Summer,Women,Leather,2023,2290.0,929.23
+242,Handbags Item 242,Bags,Handbags,Stylo,Red,10,All Season,Women,Leather,2023,4050.0,2510.31
+243,Makeup Item 243,Beauty,Makeup,Stylo,Black,L,Winter,Women,Synthetic,2023,5310.0,3617.46
+244,Makeup Item 244,Beauty,Makeup,Stylo,Red,S,All Season,Women,Synthetic,2022,7090.0,3606.31
+245,Girls Shoes Item 245,Kids Shoes,Girls Shoes,Stylo,Gold,S,Winter,Unisex,Silk,2024,2500.0,1189.34
+246,Watches Item 246,Accessories,Watches,Stylo,Gold,7,All Season,Women,Silk,2024,7920.0,3928.37
+247,Makeup Item 247,Beauty,Makeup,Stylo,Black,XL,All Season,Women,Synthetic,2024,1600.0,851.46
+248,Pret Item 248,Clothing,Pret,Stylo,Blue,7,All Season,Women,Synthetic,2024,2800.0,1240.42
+249,Abayas Item 249,Clothing,Abayas,Stylo,Beige,6,Winter,Women,Synthetic,2024,1660.0,909.24
+250,Laptop Bags Item 250,Bags,Laptop Bags,Stylo,Silver,10,All Season,Women,Leather,2023,5710.0,3037.6

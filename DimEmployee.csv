@@ -1,0 +1,301 @@
+EmployeeID,EmployeeName,Department,Designation,StoreID,JoiningDate
+1,Employee 1,Operations,Store Manager,46,2022-06-14
+2,Employee 2,Inventory,Cashier,43,2022-05-31
+3,Employee 3,Inventory,Store Manager,15,2022-04-17
+4,Employee 4,Inventory,Store Manager,36,2022-08-02
+5,Employee 5,Inventory,Sales Associate,9,2023-08-02
+6,Employee 6,Sales,Store Manager,36,2023-01-13
+7,Employee 7,Inventory,Cashier,20,2023-10-20
+8,Employee 8,Sales,Sales Associate,15,2022-06-29
+9,Employee 9,Operations,Sales Associate,25,2023-01-17
+10,Employee 10,Sales,Cashier,23,2023-10-04
+11,Employee 11,Inventory,Store Manager,35,2022-09-11
+12,Employee 12,Inventory,Store Manager,52,2023-02-03
+13,Employee 13,Sales,Store Manager,59,2022-08-01
+14,Employee 14,Operations,Store Manager,51,2023-01-29
+15,Employee 15,Operations,Cashier,17,2023-02-03
+16,Employee 16,Sales,Cashier,8,2022-12-20
+17,Employee 17,Inventory,Cashier,37,2023-01-01
+18,Employee 18,Inventory,Store Manager,42,2022-03-26
+19,Employee 19,Inventory,Store Manager,18,2023-09-17
+20,Employee 20,Sales,Store Manager,5,2023-03-29
+21,Employee 21,Sales,Store Manager,1,2022-06-15
+22,Employee 22,Sales,Sales Associate,33,2023-11-12
+23,Employee 23,Sales,Store Manager,37,2023-07-20
+24,Employee 24,Sales,Cashier,54,2022-10-21
+25,Employee 25,Sales,Sales Associate,51,2022-11-04
+26,Employee 26,Operations,Cashier,31,2023-01-31
+27,Employee 27,Inventory,Sales Associate,46,2023-08-28
+28,Employee 28,Operations,Cashier,14,2023-12-12
+29,Employee 29,Operations,Store Manager,19,2022-01-27
+30,Employee 30,Inventory,Sales Associate,38,2022-05-09
+31,Employee 31,Inventory,Store Manager,19,2023-11-12
+32,Employee 32,Inventory,Sales Associate,13,2022-01-30
+33,Employee 33,Sales,Store Manager,55,2023-10-12
+34,Employee 34,Operations,Cashier,2,2023-08-12
+35,Employee 35,Inventory,Cashier,38,2023-01-29
+36,Employee 36,Inventory,Sales Associate,8,2023-07-26
+37,Employee 37,Sales,Store Manager,25,2023-04-09
+38,Employee 38,Operations,Sales Associate,39,2023-01-22
+39,Employee 39,Operations,Store Manager,28,2022-03-21
+40,Employee 40,Sales,Sales Associate,21,2023-02-08
+41,Employee 41,Sales,Store Manager,12,2022-02-02
+42,Employee 42,Sales,Sales Associate,9,2023-11-28
+43,Employee 43,Inventory,Sales Associate,18,2023-09-21
+44,Employee 44,Inventory,Cashier,3,2022-03-16
+45,Employee 45,Sales,Cashier,29,2023-03-10
+46,Employee 46,Inventory,Sales Associate,58,2023-03-08
+47,Employee 47,Operations,Store Manager,40,2022-01-17
+48,Employee 48,Sales,Store Manager,56,2023-04-09
+49,Employee 49,Inventory,Sales Associate,21,2022-06-03
+50,Employee 50,Inventory,Store Manager,18,2023-02-18
+51,Employee 51,Sales,Store Manager,19,2022-01-28
+52,Employee 52,Inventory,Sales Associate,14,2022-09-09
+53,Employee 53,Operations,Sales Associate,30,2022-11-08
+54,Employee 54,Operations,Store Manager,28,2022-11-11
+55,Employee 55,Sales,Store Manager,53,2022-02-23
+56,Employee 56,Sales,Cashier,25,2022-09-10
+57,Employee 57,Operations,Sales Associate,25,2022-08-12
+58,Employee 58,Sales,Cashier,38,2023-01-01
+59,Employee 59,Inventory,Cashier,25,2023-09-20
+60,Employee 60,Inventory,Store Manager,23,2023-08-20
+61,Employee 61,Sales,Cashier,12,2023-05-13
+62,Employee 62,Inventory,Store Manager,25,2022-09-27
+63,Employee 63,Sales,Store Manager,39,2022-02-16
+64,Employee 64,Sales,Sales Associate,60,2023-07-15
+65,Employee 65,Operations,Sales Associate,12,2022-12-09
+66,Employee 66,Operations,Sales Associate,47,2022-08-02
+67,Employee 67,Operations,Store Manager,60,2023-12-01
+68,Employee 68,Operations,Cashier,26,2023-05-08
+69,Employee 69,Sales,Sales Associate,35,2023-07-03
+70,Employee 70,Sales,Cashier,1,2022-11-04
+71,Employee 71,Operations,Sales Associate,15,2022-03-09
+72,Employee 72,Operations,Store Manager,18,2023-01-23
+73,Employee 73,Inventory,Cashier,45,2022-03-27
+74,Employee 74,Operations,Cashier,31,2022-10-27
+75,Employee 75,Inventory,Sales Associate,10,2023-01-02
+76,Employee 76,Sales,Sales Associate,17,2023-12-15
+77,Employee 77,Inventory,Store Manager,34,2023-06-14
+78,Employee 78,Operations,Cashier,53,2022-11-21
+79,Employee 79,Sales,Sales Associate,9,2023-12-06
+80,Employee 80,Sales,Store Manager,1,2023-08-21
+81,Employee 81,Operations,Store Manager,16,2023-03-28
+82,Employee 82,Operations,Cashier,28,2023-03-12
+83,Employee 83,Sales,Cashier,13,2022-02-23
+84,Employee 84,Inventory,Cashier,52,2023-01-18
+85,Employee 85,Inventory,Sales Associate,4,2022-04-13
+86,Employee 86,Inventory,Cashier,35,2023-05-07
+87,Employee 87,Sales,Sales Associate,20,2022-07-31
+88,Employee 88,Inventory,Sales Associate,21,2022-04-05
+89,Employee 89,Sales,Store Manager,15,2023-03-20
+90,Employee 90,Operations,Cashier,27,2022-06-24
+91,Employee 91,Inventory,Sales Associate,52,2022-01-16
+92,Employee 92,Operations,Cashier,5,2023-07-16
+93,Employee 93,Operations,Sales Associate,3,2023-09-22
+94,Employee 94,Inventory,Store Manager,41,2023-06-22
+95,Employee 95,Operations,Store Manager,20,2022-05-12
+96,Employee 96,Operations,Store Manager,54,2022-02-24
+97,Employee 97,Operations,Cashier,36,2023-10-30
+98,Employee 98,Sales,Sales Associate,56,2023-03-15
+99,Employee 99,Inventory,Cashier,13,2022-09-08
+100,Employee 100,Inventory,Sales Associate,24,2022-09-27
+101,Employee 101,Sales,Cashier,48,2022-07-20
+102,Employee 102,Sales,Store Manager,3,2022-02-24
+103,Employee 103,Sales,Sales Associate,4,2022-07-09
+104,Employee 104,Inventory,Store Manager,56,2022-12-10
+105,Employee 105,Inventory,Cashier,22,2023-12-14
+106,Employee 106,Sales,Cashier,21,2022-05-22
+107,Employee 107,Sales,Store Manager,48,2022-04-08
+108,Employee 108,Sales,Store Manager,51,2022-06-07
+109,Employee 109,Sales,Store Manager,27,2023-05-07
+110,Employee 110,Sales,Sales Associate,21,2022-03-19
+111,Employee 111,Operations,Store Manager,48,2023-08-26
+112,Employee 112,Inventory,Sales Associate,2,2022-04-08
+113,Employee 113,Operations,Store Manager,58,2022-09-13
+114,Employee 114,Sales,Cashier,34,2022-05-25
+115,Employee 115,Sales,Sales Associate,55,2022-05-20
+116,Employee 116,Operations,Sales Associate,3,2022-11-24
+117,Employee 117,Sales,Cashier,9,2022-07-08
+118,Employee 118,Inventory,Sales Associate,4,2023-01-17
+119,Employee 119,Operations,Sales Associate,42,2022-01-29
+120,Employee 120,Sales,Cashier,48,2023-09-21
+121,Employee 121,Sales,Sales Associate,8,2022-08-01
+122,Employee 122,Operations,Cashier,20,2022-08-03
+123,Employee 123,Sales,Cashier,7,2022-07-17
+124,Employee 124,Sales,Cashier,12,2023-01-08
+125,Employee 125,Sales,Cashier,25,2022-04-30
+126,Employee 126,Sales,Sales Associate,16,2023-09-05
+127,Employee 127,Operations,Store Manager,54,2023-02-26
+128,Employee 128,Inventory,Store Manager,22,2022-05-10
+129,Employee 129,Sales,Store Manager,12,2023-05-28
+130,Employee 130,Operations,Store Manager,50,2022-11-02
+131,Employee 131,Inventory,Store Manager,28,2022-01-06
+132,Employee 132,Sales,Store Manager,38,2023-06-09
+133,Employee 133,Operations,Store Manager,13,2022-10-02
+134,Employee 134,Sales,Cashier,4,2023-08-21
+135,Employee 135,Operations,Sales Associate,28,2023-04-10
+136,Employee 136,Inventory,Cashier,31,2023-10-03
+137,Employee 137,Sales,Store Manager,43,2023-08-10
+138,Employee 138,Inventory,Cashier,41,2023-01-05
+139,Employee 139,Sales,Cashier,31,2022-08-26
+140,Employee 140,Operations,Store Manager,54,2022-04-05
+141,Employee 141,Operations,Cashier,12,2023-01-28
+142,Employee 142,Operations,Store Manager,53,2022-12-07
+143,Employee 143,Inventory,Sales Associate,18,2023-05-15
+144,Employee 144,Operations,Sales Associate,24,2022-09-10
+145,Employee 145,Inventory,Cashier,4,2023-09-27
+146,Employee 146,Operations,Store Manager,20,2022-04-18
+147,Employee 147,Operations,Store Manager,51,2023-01-14
+148,Employee 148,Sales,Sales Associate,26,2023-08-19
+149,Employee 149,Inventory,Store Manager,11,2022-10-23
+150,Employee 150,Operations,Store Manager,60,2023-02-08
+151,Employee 151,Operations,Cashier,21,2023-11-14
+152,Employee 152,Sales,Store Manager,14,2023-07-29
+153,Employee 153,Inventory,Cashier,45,2023-12-18
+154,Employee 154,Operations,Sales Associate,49,2023-10-12
+155,Employee 155,Inventory,Cashier,57,2022-12-14
+156,Employee 156,Inventory,Sales Associate,10,2022-10-24
+157,Employee 157,Sales,Cashier,49,2023-02-02
+158,Employee 158,Operations,Cashier,10,2022-11-01
+159,Employee 159,Sales,Store Manager,31,2022-03-25
+160,Employee 160,Sales,Cashier,30,2023-10-23
+161,Employee 161,Inventory,Store Manager,13,2023-10-03
+162,Employee 162,Inventory,Sales Associate,21,2022-10-05
+163,Employee 163,Sales,Cashier,19,2023-02-25
+164,Employee 164,Inventory,Store Manager,33,2023-03-16
+165,Employee 165,Sales,Cashier,37,2022-01-27
+166,Employee 166,Operations,Sales Associate,26,2023-07-06
+167,Employee 167,Sales,Store Manager,37,2023-04-27
+168,Employee 168,Inventory,Cashier,16,2023-09-23
+169,Employee 169,Inventory,Cashier,51,2023-11-05
+170,Employee 170,Sales,Store Manager,7,2022-12-29
+171,Employee 171,Sales,Cashier,33,2022-03-27
+172,Employee 172,Sales,Store Manager,58,2023-06-12
+173,Employee 173,Inventory,Sales Associate,45,2023-04-18
+174,Employee 174,Sales,Sales Associate,16,2022-01-24
+175,Employee 175,Operations,Sales Associate,31,2022-05-14
+176,Employee 176,Operations,Sales Associate,31,2023-12-09
+177,Employee 177,Sales,Sales Associate,7,2022-10-08
+178,Employee 178,Inventory,Cashier,28,2023-05-09
+179,Employee 179,Inventory,Cashier,2,2023-07-24
+180,Employee 180,Sales,Store Manager,47,2022-10-09
+181,Employee 181,Inventory,Sales Associate,8,2022-05-15
+182,Employee 182,Sales,Store Manager,26,2022-07-21
+183,Employee 183,Inventory,Store Manager,51,2023-03-29
+184,Employee 184,Operations,Sales Associate,21,2023-10-20
+185,Employee 185,Operations,Sales Associate,48,2023-08-16
+186,Employee 186,Inventory,Sales Associate,25,2023-12-21
+187,Employee 187,Operations,Store Manager,49,2023-02-20
+188,Employee 188,Sales,Sales Associate,39,2022-04-22
+189,Employee 189,Operations,Sales Associate,48,2023-08-23
+190,Employee 190,Inventory,Cashier,58,2022-11-04
+191,Employee 191,Sales,Sales Associate,26,2023-08-10
+192,Employee 192,Operations,Cashier,55,2023-11-12
+193,Employee 193,Sales,Cashier,8,2022-07-05
+194,Employee 194,Inventory,Store Manager,45,2023-01-28
+195,Employee 195,Inventory,Store Manager,37,2023-04-17
+196,Employee 196,Sales,Cashier,27,2023-04-08
+197,Employee 197,Inventory,Sales Associate,27,2023-11-30
+198,Employee 198,Inventory,Sales Associate,14,2022-12-03
+199,Employee 199,Sales,Cashier,8,2022-02-03
+200,Employee 200,Sales,Store Manager,7,2022-06-23
+201,Employee 201,Operations,Cashier,2,2022-04-27
+202,Employee 202,Operations,Cashier,16,2023-08-05
+203,Employee 203,Inventory,Store Manager,47,2023-08-23
+204,Employee 204,Sales,Sales Associate,13,2022-08-20
+205,Employee 205,Sales,Store Manager,18,2022-08-09
+206,Employee 206,Operations,Cashier,27,2023-05-09
+207,Employee 207,Inventory,Sales Associate,44,2022-10-08
+208,Employee 208,Inventory,Sales Associate,19,2022-02-16
+209,Employee 209,Inventory,Cashier,52,2023-12-09
+210,Employee 210,Operations,Sales Associate,47,2022-03-05
+211,Employee 211,Sales,Store Manager,32,2023-09-07
+212,Employee 212,Sales,Sales Associate,5,2022-09-15
+213,Employee 213,Inventory,Sales Associate,7,2023-02-15
+214,Employee 214,Sales,Store Manager,38,2023-11-02
+215,Employee 215,Inventory,Cashier,43,2023-11-05
+216,Employee 216,Sales,Sales Associate,4,2022-11-16
+217,Employee 217,Inventory,Sales Associate,58,2022-02-09
+218,Employee 218,Sales,Cashier,36,2023-03-04
+219,Employee 219,Operations,Sales Associate,26,2023-07-12
+220,Employee 220,Sales,Cashier,5,2023-09-28
+221,Employee 221,Inventory,Sales Associate,16,2022-10-26
+222,Employee 222,Sales,Sales Associate,55,2022-07-25
+223,Employee 223,Operations,Cashier,58,2022-12-04
+224,Employee 224,Operations,Cashier,17,2022-06-09
+225,Employee 225,Sales,Sales Associate,21,2022-07-22
+226,Employee 226,Sales,Store Manager,4,2023-12-14
+227,Employee 227,Operations,Cashier,43,2022-04-09
+228,Employee 228,Operations,Cashier,7,2022-07-30
+229,Employee 229,Inventory,Store Manager,4,2022-03-23
+230,Employee 230,Operations,Store Manager,7,2023-12-20
+231,Employee 231,Sales,Store Manager,8,2022-07-28
+232,Employee 232,Sales,Cashier,7,2023-08-20
+233,Employee 233,Inventory,Store Manager,60,2022-01-17
+234,Employee 234,Sales,Store Manager,58,2023-04-21
+235,Employee 235,Inventory,Sales Associate,11,2023-06-18
+236,Employee 236,Inventory,Cashier,6,2022-10-24
+237,Employee 237,Sales,Sales Associate,9,2023-07-01
+238,Employee 238,Operations,Cashier,20,2022-11-21
+239,Employee 239,Sales,Store Manager,60,2023-12-15
+240,Employee 240,Sales,Cashier,14,2023-03-23
+241,Employee 241,Operations,Cashier,24,2023-05-18
+242,Employee 242,Operations,Store Manager,56,2023-03-15
+243,Employee 243,Sales,Cashier,5,2022-09-02
+244,Employee 244,Inventory,Sales Associate,3,2023-10-15
+245,Employee 245,Operations,Store Manager,40,2022-04-24
+246,Employee 246,Inventory,Store Manager,8,2023-08-15
+247,Employee 247,Operations,Sales Associate,16,2023-10-19
+248,Employee 248,Sales,Sales Associate,23,2022-10-18
+249,Employee 249,Sales,Sales Associate,46,2022-09-01
+250,Employee 250,Sales,Store Manager,14,2022-12-06
+251,Employee 251,Sales,Store Manager,39,2023-11-11
+252,Employee 252,Operations,Cashier,12,2023-02-02
+253,Employee 253,Sales,Store Manager,36,2022-09-17
+254,Employee 254,Operations,Store Manager,11,2022-11-27
+255,Employee 255,Sales,Cashier,32,2022-11-16
+256,Employee 256,Sales,Sales Associate,9,2023-10-11
+257,Employee 257,Operations,Store Manager,32,2022-03-08
+258,Employee 258,Inventory,Store Manager,38,2023-07-10
+259,Employee 259,Inventory,Cashier,40,2022-10-10
+260,Employee 260,Inventory,Cashier,59,2023-01-03
+261,Employee 261,Operations,Store Manager,39,2022-10-17
+262,Employee 262,Inventory,Cashier,39,2022-08-15
+263,Employee 263,Sales,Sales Associate,24,2022-04-19
+264,Employee 264,Inventory,Cashier,45,2022-12-15
+265,Employee 265,Operations,Store Manager,23,2023-11-11
+266,Employee 266,Operations,Sales Associate,24,2023-01-08
+267,Employee 267,Inventory,Store Manager,57,2022-05-30
+268,Employee 268,Sales,Store Manager,41,2022-03-30
+269,Employee 269,Operations,Sales Associate,25,2023-02-18
+270,Employee 270,Sales,Cashier,24,2023-02-19
+271,Employee 271,Operations,Sales Associate,17,2023-01-27
+272,Employee 272,Sales,Store Manager,2,2023-11-11
+273,Employee 273,Sales,Sales Associate,19,2023-11-01
+274,Employee 274,Operations,Sales Associate,54,2022-08-16
+275,Employee 275,Sales,Store Manager,33,2023-10-26
+276,Employee 276,Operations,Sales Associate,17,2022-02-11
+277,Employee 277,Inventory,Cashier,29,2022-04-16
+278,Employee 278,Sales,Sales Associate,41,2023-02-26
+279,Employee 279,Operations,Cashier,39,2022-03-02
+280,Employee 280,Inventory,Store Manager,52,2022-04-13
+281,Employee 281,Operations,Sales Associate,35,2022-05-25
+282,Employee 282,Sales,Store Manager,27,2022-06-22
+283,Employee 283,Sales,Cashier,47,2022-04-24
+284,Employee 284,Sales,Store Manager,56,2023-11-07
+285,Employee 285,Sales,Sales Associate,15,2022-05-27
+286,Employee 286,Inventory,Sales Associate,12,2022-06-29
+287,Employee 287,Inventory,Sales Associate,19,2022-01-14
+288,Employee 288,Inventory,Store Manager,31,2022-12-01
+289,Employee 289,Sales,Cashier,13,2023-01-02
+290,Employee 290,Inventory,Cashier,39,2022-11-01
+291,Employee 291,Sales,Sales Associate,18,2022-04-05
+292,Employee 292,Sales,Cashier,49,2023-07-22
+293,Employee 293,Operations,Store Manager,39,2022-04-29
+294,Employee 294,Sales,Store Manager,57,2022-04-15
+295,Employee 295,Inventory,Sales Associate,60,2022-09-10
+296,Employee 296,Operations,Cashier,2,2022-11-18
+297,Employee 297,Sales,Store Manager,50,2023-03-30
+298,Employee 298,Sales,Sales Associate,50,2023-10-21
+299,Employee 299,Inventory,Cashier,9,2022-01-08
+300,Employee 300,Operations,Store Manager,8,2023-10-17
