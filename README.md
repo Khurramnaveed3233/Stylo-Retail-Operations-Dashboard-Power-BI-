@@ -7,7 +7,7 @@
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 This project is a complete **Retail Operations Dashboard** built in **Microsoft Power BI** using a simulated dataset inspired by **Stylo Pakistan**, one of Pakistan's largest fashion footwear and lifestyle retailers.
 
@@ -24,7 +24,7 @@ The solution follows industry-standard Business Intelligence practices including
 
 ---
 
-# 🎯 Business Problem
+#  Business Problem
 
 Retail companies generate thousands of transactions daily across multiple stores, products, and cities.
 
@@ -42,7 +42,7 @@ The objective of this dashboard is to convert raw retail data into actionable bu
 
 ---
 
-# 🛠 Tools & Technologies
+#  Tools & Technologies
 
 - Microsoft Power BI Desktop
 - Power Query
@@ -53,7 +53,7 @@ The objective of this dashboard is to convert raw retail data into actionable bu
 
 ---
 
-# 🗂 Dataset
+#  Dataset
 
 The project uses a retail dataset containing:
 
@@ -73,7 +73,7 @@ The project uses a retail dataset containing:
 
 ---
 
-# ⭐ Data Model
+#  Data Model
 
 The dashboard follows a **Star Schema**.
 
@@ -93,11 +93,13 @@ DimCustomer ───── FactSales ───── DimProduct
 
 ---
 
-# 📈 Dashboard Pages
+# Dashboard Pages
 
 ---
 
-# 📄 Page 1 — Executive Overview
+#  Page 1 — Executive Overview
+
+<img width="1153" height="675" alt="1" src="https://github.com/user-attachments/assets/40ce81ac-4b13-4c89-a9db-a6952b47876f" />
 
 This page provides management with a high-level overview of overall business performance.
 
@@ -128,7 +130,9 @@ This page provides management with a high-level overview of overall business per
 
 ---
 
-# 📄 Page 2 — Store Performance Dashboard
+#  Page 2 — Store Performance Dashboard
+
+<img width="1136" height="629" alt="2" src="https://github.com/user-attachments/assets/69814c05-8aac-49be-8216-a829c72cfa3b" />
 
 This page evaluates the performance of individual stores.
 
@@ -158,7 +162,9 @@ This page evaluates the performance of individual stores.
 
 ---
 
-# 📄 Page 3 — Product Performance Dashboard
+#  Page 3 — Product Performance Dashboard
+
+<img width="1159" height="995" alt="3" src="https://github.com/user-attachments/assets/2cb1b9d4-b96a-4c79-8158-81d5ad89591a" />
 
 Analyzes products and product categories.
 
@@ -190,7 +196,7 @@ Analyzes products and product categories.
 
 ---
 
-# 📊 DAX Measures
+#  DAX Measures
 
 ## Total Sales
 
@@ -378,7 +384,7 @@ AVERAGE(FactSales[UnitPrice])
 
 ---
 
-# 🎯 Interactive Filters
+#  Interactive Filters
 
 The dashboard supports dynamic filtering through:
 
@@ -411,7 +417,7 @@ All visuals interact automatically through cross-filtering.
 
 ---
 
-# 💡 Skills Demonstrated
+#  Skills Demonstrated
 
 - Power BI
 - Power Query
@@ -428,7 +434,7 @@ All visuals interact automatically through cross-filtering.
 
 ---
 
-# 📁 Repository Structure
+#  Repository Structure
 
 ```
 Stylo-Retail-Operations-Dashboard
@@ -456,7 +462,7 @@ Stylo-Retail-Operations-Dashboard
 
 ---
 
-# 🚀 Future Enhancements
+#  Future Enhancements
 
 - Customer Insights Dashboard
 - Inventory Analysis
@@ -468,7 +474,7 @@ Stylo-Retail-Operations-Dashboard
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Khurram**
 
