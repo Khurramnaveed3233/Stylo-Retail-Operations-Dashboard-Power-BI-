@@ -42,7 +42,7 @@ The objective of this dashboard is to convert raw retail data into actionable bu
 
 ---
 
-# 🛠 Tools & Technologies
+#  Tools & Technologies
 
 - Microsoft Power BI Desktop
 - Power Query
@@ -77,7 +77,7 @@ The project uses a retail dataset containing:
 
 <img width="1622" height="969" alt="ChatGPT Image Jul 10, 2026, 09_37_33 AM" src="https://github.com/user-attachments/assets/de8adaea-b40c-474a-a65a-375ea068cf58" />
 
-# 📈 Dashboard Pages
+#  Dashboard Pages
 
 ---
 
