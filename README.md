@@ -9,18 +9,17 @@ Analytics](https://img.shields.io/badge/Domain-Retail-purple)
 
 #  Project Overview
 
-This project is a complete **Retail Operations Dashboard** built in **Microsoft Power BI** using a simulated dataset inspired by **Stylo Pakistan**, one of Pakistan's largest fashion footwear and lifestyle retailers.
+Retail Operations Dashboard – Stylo Pakistan (Simulated)
 
-The dashboard enables management to monitor sales performance, evaluate store operations, and analyze product performance through interactive KPIs, charts, and slicers.
+An end-to-end Retail Operations Dashboard built in Microsoft Power BI, using a simulated dataset modeled on Stylo Pakistan, one of the country's leading fashion footwear and lifestyle retailers.
 
-The solution follows industry-standard Business Intelligence practices including:
+This project replicates a real-world retail analytics use case — transforming raw transactional data into an executive-ready decision-support tool. It's designed to help retail management track sales performance, monitor store-level operations, and uncover product-level insights through a fully interactive, KPI-driven reporting layer.
+Business Objective
+Retail leadership needs a single source of truth to answer questions like:
 
-- Star Schema Data Model
-- Power Query ETL
-- DAX Measures
-- Interactive Dashboards
-- Executive Reporting
-- Retail Analytics
+Which stores and regions are driving (or dragging) revenue?
+How is the product portfolio performing across categories, seasons, and price points?
+Where are the operational bottlenecks — stock, footfall, conversion — that need attention?
 
 ---
 
