@@ -53,7 +53,7 @@ The objective of this dashboard is to convert raw retail data into actionable bu
 
 ---
 
-# 🗂 Dataset
+#  Dataset
 
 The project uses a retail dataset containing:
 
@@ -81,7 +81,7 @@ The project uses a retail dataset containing:
 
 ---
 
-# 📄 Page 1 — Executive Overview
+#  Page 1 — Executive Overview
 
 <img width="1153" height="675" alt="1" src="https://github.com/user-attachments/assets/d3beac89-e602-49ed-8ff2-953209b92c9b" />
 
@@ -114,7 +114,7 @@ This page provides management with a high-level overview of overall business per
 
 ---
 
-# 📄 Page 2 — Store Performance Dashboard
+#  Page 2 — Store Performance Dashboard
 
 <img width="1136" height="629" alt="2" src="https://github.com/user-attachments/assets/eccd87af-cb0a-4cb7-a625-a04d8a1c27cd" />
 
@@ -146,7 +146,7 @@ This page evaluates the performance of individual stores.
 
 ---
 
-# 📄 Page 3 — Product Performance Dashboard
+#  Page 3 — Product Performance Dashboard
 
 Analyzes products and product categories.
 
@@ -178,7 +178,7 @@ Analyzes products and product categories.
 
 ---
 
-# 📊 DAX Measures
+#  DAX Measures
 
 ## Total Sales
 
